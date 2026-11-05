@@ -1,8 +1,8 @@
-𓆩 ♱ bienvenido a mi dominio ♱ 𓆪
+			𓆩 ♱ bienvenido a mi dominio ♱ 𓆪
 
 « tejiendo código y datos en las sombras »
 
-♱ sobre mí ♱
+					♱ sobre mí ♱
 
 ✦ estudiante de informática y data science en chile
 
@@ -10,7 +10,7 @@
 
 ✦ enfocado en bases de datos, análisis y modo oscuro
 
-♱ mi grimorio (proyectos) ♱
+					♱ mi grimorio (proyectos) ♱
 
 ✦ prototipo-pagina : vitrina digital (ganador desafío i)
 
