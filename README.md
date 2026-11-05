@@ -1,16 +1,17 @@
-## Hi there 👋
+𓆩 ♱ bienvenido a mi dominio ♱ 𓆪
 
-<!--
-**munyun00-collab/munyun00-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+« tejiendo código y datos en las sombras »
 
-Here are some ideas to get you started:
+♱ sobre mí ♱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✦ estudiante de informática y data science en chile
+
+✦ invocando scripts con python, java y sql
+
+✦ enfocado en bases de datos, análisis y modo oscuro
+
+♱ mi grimorio (proyectos) ♱
+
+✦ prototipo-pagina : vitrina digital (ganador desafío i)
+
+♰ 𝔳𝔞𝔪𝔭𝔦𝔯𝔢 𝔥𝔬𝔲𝔯𝔰 // 𝔥𝔞𝔭𝔭𝔶 𝔠𝔬𝔡𝔦𝔫𝔤 ♰
